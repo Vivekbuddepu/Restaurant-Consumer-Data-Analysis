@@ -1,71 +1,66 @@
-# Restaurant & Consumer Data Analysis using SQL  
+# 🍽️ Restaurant & Consumer Data Analysis – Advanced SQL Project
 
-**A complete end-to-end SQL project** that transforms raw restaurant and consumer CSV data into actionable business insights using advanced SQL techniques.
+**Turning raw restaurant data into money-making business insights using pure SQL!**
 
-**I am Buddepu Vivek from Innomatics Research Labs, with strong interest in SQL, EDA, and data-driven decision-making.
-**I enjoy working with structured datasets, writing optimized queries, and extracting meaningful insights from relational databases.
+**Buddepu Vivek**  
+Data Analyst | SQL | EDA | Innomatics Research Labs  
+🔗 [LinkedIn](https://www.linkedin.com/in/buddepu-vivek/) | ✉️ buddepuvivek2001@gmail.com
 
-Live Demo / Presentation: [SQL_Project PPT.pptx](SQL_Project%20PPT.pptx) (included in repo)
-
----
-
-## Project Overview  
-
-This project analyzes real-world restaurant and consumer behavior data collected from multiple cities in Mexico.  
-We built a fully normalized relational database and used **pure SQL** (MySQL / PostgreSQL) to answer real business questions that restaurant owners care about:
-
-- Who are my best customers?  
-- Which cuisine performs best in which city?  
-- Where are we getting bad ratings and why?  
-- What should we improve to earn more?
+📎 **Full Project Presentation**: [SQL_Project PPT.pptx](D:\BATCH 427 A\My SQL Project\SQL_Project PPT.pptx) (included in repo)
 
 ---
 
-## Key Features & SQL Concepts Covered  
+## 🚀 Project Overview
+Real-world dataset of **restaurants, consumers, ratings & preferences** from multiple cities in Mexico.  
+Built a complete relational database and used **advanced SQL only** to answer real business questions:
 
-- Complete Database Design (5+ tables, proper PK-FK relationships)  
-- ER Diagram & Data Dictionary  
-- 50+ Real-world SQL queries ranging from basic to advanced  
-- Joins, Subqueries, Nested Queries  
-- Common Table Expressions (CTEs)  
-- Window Functions (RANK, ROW_NUMBER, AVG() OVER)  
-- Views for reusable reports  
-- Stored Procedures (ready for automation)  
-- Complex filtering & business logic implementation  
-
-### Tables Created  
-| Table Name              | Description                              |
-|-------------------------|------------------------------------------|
-| `consumers`             | Customer demographics & preferences      |
-| `restaurants`           | Restaurant details (name, city, price, parking, etc.) |
-| `restaurant_cuisines`   | Cuisines offered (many-to-many)          |
-| `consumer_preferences`  | Preferred cuisines of each consumer      |
-| `ratings`               | Food, Service & Overall ratings          |
+- Who are my best (and worst) customers?  
+- Which cuisine wins in which city?  
+- Why are we getting 0 ratings in some locations?  
+- What quick changes bring more happy customers & revenue?
 
 ---
 
-## Business Insights Discovered  
+## ⚡ Key Features & SQL Concepts Covered
+| Feature                          | Done |
+|----------------------------------|------|
+| Full Database Design (5+ Tables) | Yes  |
+| Proper PK-FK Relationships       | Yes  |
+| ER Diagram + Data Dictionary     | Yes  |
+| 50+ Real-World Queries           | Yes  |
+| Joins & Subqueries               | Yes  |
+| CTEs (Common Table Expressions)  | Yes  |
+| Window Functions (RANK, ROW_NUMBER, AVG() OVER) | Yes |
+| Reusable Views                   | Yes  |
+| Stored Procedures                | Yes  |
+| Clean & Commented Code           | Yes  |
 
-- Students are the most active reviewers and love **Mexican** & **Pizzeria**  
-- **Cuernavaca** gives the highest ratings → Medium price + Wine-Beer combo wins  
-- **Mexican cuisine dominates** satisfaction across all cities  
-- Franchise/Chain restaurants get significantly higher ratings  
-- **Ciudad Victoria** has serious food quality issues (many 0 Food_Rating)  
-- Italian cuisine is rarely tried → low awareness or availability  
-- Young social drinkers don’t care about parking if vibe & price are good  
+### Database Tables
+| Table                   | Description                                      |
+|-------------------------|--------------------------------------------------|
+| `consumers`             | Age, occupation, budget, smoker, drinker, etc.   |
+| `restaurants`           | Name, city, price, parking, alcohol, franchise   |
+| `restaurant_cuisines`   | Many-to-many cuisine mapping                     |
+| `consumer_preferences`  | Customer’s favorite cuisines                     |
+| `ratings`               | Food, Service & Overall Rating (0–2 scale)       |
 
-**Recommendations**  
+---
+
+## 💡 Top Business Insights
+- Students review the most → obsessed with **Mexican** & **Pizzeria**  
+- **Cuernavaca** = happiest city (Medium price + Wine-Beer = winning formula)  
+- **Mexican cuisine** dominates satisfaction everywhere  
+- Franchises crush independent restaurants in ratings  
+- **Ciudad Victoria** has a food quality crisis (tons of 0s)  
+- Italian cuisine is almost invisible → huge opportunity  
+- Young social drinkers ignore parking if price & vibe are good  
+
+### Actionable Recommendations
 - Open more franchise locations  
-- Offer student discounts on Mexican & Pizzeria items  
-- Focus quality improvements in Ciudad Victoria  
-- Promote Italian cuisine with special campaigns  
+- Launch student discounts on Mexican & Pizzeria  
+- Urgent quality improvement in Ciudad Victoria  
+- Run Italian food campaigns & festivals  
 
 ---
 
-🛠️ Technologies Used
-
-
-
-
-
-
+## 📁 Repository Structure
