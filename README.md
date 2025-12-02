@@ -21,17 +21,17 @@ Built a complete relational database and used **advanced SQL only** to answer re
 
 ---
 ## 🧰 SQL Tools & Concepts Used
--MySQL / SQL
--Joins (INNER, LEFT, RIGHT, FULL)
--Subqueries (Simple & Nested)
--CTEs (Common Table Expressions)
--Views (Reusable Summary Tables)
--Stored Procedures
--Window Functions (RANK, ROW_NUMBER, PARTITION BY)
--Aggregations (SUM, AVG, COUNT, MAX, MIN)
--Data Filtering & Transformation
--Group BY and HAVING Clauses
--Relational Schema Design (Primary & Foreign Keys)
+- MySQL / SQL
+- Joins (INNER, LEFT, RIGHT, FULL)
+- Subqueries (Simple & Nested)
+- CTEs (Common Table Expressions)
+- Views (Reusable Summary Tables)
+- Stored Procedures
+- Window Functions (RANK, ROW_NUMBER, PARTITION BY)
+- Aggregations (SUM, AVG, COUNT, MAX, MIN)
+- Data Filtering & Transformation
+- Group BY and HAVING Clauses
+- Relational Schema Design (Primary & Foreign Keys)
 
 ## ⚡ Key Features & SQL Concepts Covered
 | Feature                          | Done |
