@@ -20,7 +20,7 @@ Built a complete relational database and used **advanced SQL only** to answer re
 - What quick changes bring more happy customers & revenue?
 
 ---
-## 🧰 SQL Tools & Concepts Used
+## 🧰 SQL Concepts Used
 - MySQL / SQL
 - Joins (INNER, LEFT, RIGHT, FULL)
 - Subqueries (Simple & Nested)
