@@ -62,3 +62,10 @@ We built a fully normalized relational database and used **pure SQL** (MySQL / P
 
 ---
 
+🛠️ Technologies Used
+
+
+
+
+
+
