@@ -2,9 +2,9 @@
 
 **Turning raw restaurant data into money-making business insights using pure SQL!**
 
-**Buddepu Vivek**  
-Data Analyst | SQL | EDA | Innomatics Research Labs  
-🔗 [LinkedIn](https://www.linkedin.com/in/buddepu-vivek/) | ✉️ buddepuvivek2001@gmail.com
+## 👨‍💻 About Me
+I’m **Buddepu Vivek**, from **Innomatics Research Labs**, with a strong interest in **Exploratory Data Analytics (EDA)**. 
+I enjoy exploring real-world datasets to uncover insights that support better business strategies.
 
 📎 **Full Project Presentation**: [SQL_Project PPT.pptx](D:\BATCH 427 A\My SQL Project\SQL_Project PPT.pptx) (included in repo)
 
@@ -20,6 +20,18 @@ Built a complete relational database and used **advanced SQL only** to answer re
 - What quick changes bring more happy customers & revenue?
 
 ---
+## 🧰 SQL Tools & Concepts Used
+-MySQL / SQL
+-Joins (INNER, LEFT, RIGHT, FULL)
+-Subqueries (Simple & Nested)
+-CTEs (Common Table Expressions)
+-Views (Reusable Summary Tables)
+-Stored Procedures
+-Window Functions (RANK, ROW_NUMBER, PARTITION BY)
+-Aggregations (SUM, AVG, COUNT, MAX, MIN)
+-Data Filtering & Transformation
+-Group BY and HAVING Clauses
+-Relational Schema Design (Primary & Foreign Keys)
 
 ## ⚡ Key Features & SQL Concepts Covered
 | Feature                          | Done |
@@ -63,4 +75,9 @@ Built a complete relational database and used **advanced SQL only** to answer re
 
 ---
 
-## 📁 Repository Structure
+### 🏷️ Author
+**Buddepu Vivek**  
+📍 Data Analyst | Innomatics Research Labs  
+📧 [buddepuvivek2001@gmail.com]  
+🔗 [https://www.linkedin.com/in/buddepu-vivek/]
+
