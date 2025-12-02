@@ -3,7 +3,7 @@
 **Turning raw restaurant data into money-making business insights using pure SQL!**
 
 ## 👨‍💻 About Me
-I’m **Buddepu Vivek**, from **Innomatics Research Labs**, with a strong interest in **Exploratory Data Analytics (EDA)**. 
+I’m **Buddepu Vivek**, from **Innomatics Research Labs**, with a strong interest in ** DATA ANALYSIS **. 
 I enjoy exploring real-world datasets to uncover insights that support better business strategies.
 
 📎 **Full Project Presentation**: [SQL_Project PPT.pptx](D:\BATCH 427 A\My SQL Project\SQL_Project PPT.pptx) (included in repo)
