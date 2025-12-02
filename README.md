@@ -6,7 +6,7 @@
 I’m **Buddepu Vivek**, from **Innomatics Research Labs**, with a strong interest in ** DATA ANALYSIS **. 
 I enjoy exploring real-world datasets to uncover insights that support better business strategies.
 
-📎 **Full Project Presentation**: [SQL_Project PPT.pptx](D:\BATCH 427 A\My SQL Project\SQL_Project PPT.pptx) (included in repo)
+📎 **Full Project Presentation**: [SQL_Project PPT.pptx](https://github.com/Vivekbuddepu/Restaurant-Consumer-Data-Analysis/blob/main/SQL_Project%20Presentation.pptx) (included in repo)
 
 ---
 
