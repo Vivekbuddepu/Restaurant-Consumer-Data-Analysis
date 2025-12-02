@@ -33,20 +33,6 @@ Built a complete relational database and used **advanced SQL only** to answer re
 - Group BY and HAVING Clauses
 - Relational Schema Design (Primary & Foreign Keys)
 
-## ⚡ Key Features & SQL Concepts Covered
-| Feature                          | Done |
-|----------------------------------|------|
-| Full Database Design (5+ Tables) | Yes  |
-| Proper PK-FK Relationships       | Yes  |
-| ER Diagram + Data Dictionary     | Yes  |
-| 50+ Real-World Queries           | Yes  |
-| Joins & Subqueries               | Yes  |
-| CTEs (Common Table Expressions)  | Yes  |
-| Window Functions (RANK, ROW_NUMBER, AVG() OVER) | Yes |
-| Reusable Views                   | Yes  |
-| Stored Procedures                | Yes  |
-| Clean & Commented Code           | Yes  |
-
 ### Database Tables
 | Table                   | Description                                      |
 |-------------------------|--------------------------------------------------|
